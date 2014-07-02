@@ -10,4 +10,6 @@ Kaleidoscope of Apache Big Data Stack
 •http://www.getchef.com/chef/
 Cloud infrastructure automation framework
 
+•http://grids.ucs.indiana.edu/ptliupages/publications/survey_apache_big_data_stack.pdf
+Good detailed overview of some of the ABDS applications
 
